@@ -1,0 +1,7 @@
+github
+
+https://github.com/KarimberdiyevMuhammadali/js3
+
+vercel
+
+https://js3-karimberdiyevmuhammadalis-projects.vercel.app/
